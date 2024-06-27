@@ -1,10 +1,10 @@
-#Data Engineer
+##Data Engineer
 
 #### Technical Skills: Python, SQL, Java, AWS, Snowflake, ETL
 
 ## Education	        		
 - B.S., Data Science |University of California - Berkeley (_Dec 2023_)
-- 
+
 ## Work Experience
 **Senior Student Technology Consultant @ UC Berkeley Student Technology Services (_August 2021 - Present_)**
 - Provided comprehensive technical support, including hardware and software installations, antivirus/firewall setup, and resolving software-related academic issues for students.
